@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\mainmenu.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\layout-small\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\restart.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\layout-small\\restart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\settings.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\layout-small\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\leave.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\layout-small\\leave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\top.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\layout-small\\top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\bottom.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\layout-small\\bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\help.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\layout-small\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\gameover.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\layout-small\\gameover.xml"
+    }
+]

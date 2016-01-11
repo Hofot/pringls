@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Boris\Desktop\4inarows\app\libs\fourinrow.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="70851ea7deb4d159b6025194e39e74261a98a63b">
+        <dex dex="C:\Users\Boris\Desktop\4inarows\app\build\intermediates\pre-dexed\debug\fourinrow_6441ebc302c15a19c5fda513888d40c7501a8ffc.jar" />
+    </item>
+
+</items>

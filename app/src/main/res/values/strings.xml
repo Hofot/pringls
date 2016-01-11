@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Четыре в ряд</string>
+    <string name="msg_youwin">Молодцы, вы выиграли !</string>
+    <string name="msg_p1win">Игрок 1 выиграл !</string>
+    <string name="msg_p2win">Игрок 2 выиграл !</string>
+    <string name="msg_youlose">К сожалению, вы проиграли !</string>
+    <string name="msg_draw">Ой-ой,  ничья!</string>
+    <string name="msg_players">Кол-во игроков</string>
+    <string name="msg_diff">Уровень сложности</string>
+    <string name="msg_sound">Настройки</string>
+    <string name="msg_help">Помощь</string>
+    <string name="msg_turn">Ход игрока</string>
+    <string name="sureleave">Вы уверены, что хотите выйти из игры?</string>
+    <string name="surerestart">Вы уверены, что хотите перезапустить игру?</string>
+    <string name="all_help">Игра для двоих, в которой игроки сначала выбирают цвет фишек, а затем ходят по очереди, роняя фишки в ячейки вертикальной доски.
+        \n\nЦель игры — расположить раньше противника подряд по горизонтали, вертикали или диагонали четыре фишки своего цвета.
+    \n\nEmail:\ pringls2012@gmail.com
+    
+    </string>
+   
+    
+</resources>

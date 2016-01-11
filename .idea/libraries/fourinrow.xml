@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fourinrow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/fourinrow.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

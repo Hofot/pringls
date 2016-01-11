@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-small-v4\\radio_sel.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\drawable-small\\radio_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-small-v4\\radio_disabled.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\drawable-small\\radio_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-small-v4\\greenbutton.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\drawable-small\\greenbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-small-v4\\radio_disabledsel.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\drawable-small\\radio_disabledsel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-small-v4\\radio_unsel.xml",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\drawable-small\\radio_unsel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-small-v4\\icon.png",
+        "source": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\drawable-small\\icon.png"
+    }
+]

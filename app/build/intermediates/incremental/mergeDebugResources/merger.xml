@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\Boris\Desktop\4inarows\app\src\main\res"/><source path="C:\Users\Boris\Desktop\4inarows\app\build\generated\res\rs\debug"/><source path="C:\Users\Boris\Desktop\4inarows\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\Boris\Desktop\4inarows\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Boris\Desktop\4inarows\app\src\main\res"><file name="linkcolors" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\color\linkcolors.xml" qualifiers="" type="color"/><file name="animated_decor0" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\animated_decor0.xml" qualifiers="" type="drawable"/><file name="animated_decor1" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\animated_decor1.xml" qualifiers="" type="drawable"/><file name="animated_decor2" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\animated_decor2.xml" qualifiers="" type="drawable"/><file name="animated_decor3" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\animated_decor3.xml" qualifiers="" type="drawable"/><file name="board" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\board.png" qualifiers="" type="drawable"/><file name="boarddemo" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\boarddemo.png" qualifiers="" type="drawable"/><file name="dark_rectangle" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\dark_rectangle.xml" qualifiers="" type="drawable"/><file name="decor_0" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\decor_0.png" qualifiers="" type="drawable"/><file name="decor_1" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\decor_1.png" qualifiers="" type="drawable"/><file name="decor_2" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\decor_2.png" qualifiers="" type="drawable"/><file name="decor_3" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\decor_3.png" qualifiers="" type="drawable"/><file name="decor_4" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\decor_4.png" qualifiers="" type="drawable"/><file name="decor_5" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\decor_5.png" qualifiers="" type="drawable"/><file name="green" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\green.png" qualifiers="" type="drawable"/><file name="greenbutton" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\greenbutton.xml" qualifiers="" type="drawable"/><file name="i" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\i.jpg" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="ic_menu_help" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\ic_menu_help.png" qualifiers="" type="drawable"/><file name="ic_menu_preferences" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\ic_menu_preferences.png" qualifiers="" type="drawable"/><file name="power" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\power.png" qualifiers="" type="drawable"/><file name="radio" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\radio.xml" qualifiers="" type="drawable"/><file name="radio_disabled" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\radio_disabled.xml" qualifiers="" type="drawable"/><file name="radio_disabledsel" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\radio_disabledsel.xml" qualifiers="" type="drawable"/><file name="radio_sel" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\radio_sel.xml" qualifiers="" type="drawable"/><file name="radio_unsel" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\radio_unsel.xml" qualifiers="" type="drawable"/><file name="red" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\red.png" qualifiers="" type="drawable"/><file name="wood" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable\wood.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="greenbutton" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-small\greenbutton.xml" qualifiers="small-v4" type="drawable"/><file name="icon" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-small\icon.png" qualifiers="small-v4" type="drawable"/><file name="radio_disabled" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-small\radio_disabled.xml" qualifiers="small-v4" type="drawable"/><file name="radio_disabledsel" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-small\radio_disabledsel.xml" qualifiers="small-v4" type="drawable"/><file name="radio_sel" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-small\radio_sel.xml" qualifiers="small-v4" type="drawable"/><file name="radio_unsel" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-small\radio_unsel.xml" qualifiers="small-v4" type="drawable"/><file name="icon" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\drawable-xhdpi\icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bottom" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\bottom.xml" qualifiers="" type="layout"/><file name="decor" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\decor.xml" qualifiers="" type="layout"/><file name="decorlarge" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\decorlarge.xml" qualifiers="" type="layout"/><file name="game" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\game.xml" qualifiers="" type="layout"/><file name="gameover" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\gameover.xml" qualifiers="" type="layout"/><file name="greenpiece" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\greenpiece.xml" qualifiers="" type="layout"/><file name="help" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\help.xml" qualifiers="" type="layout"/><file name="leave" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\leave.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="mainmenu" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\mainmenu.xml" qualifiers="" type="layout"/><file name="menu" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\menu.xml" qualifiers="" type="layout"/><file name="powerpiece" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\powerpiece.xml" qualifiers="" type="layout"/><file name="redpiece" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\redpiece.xml" qualifiers="" type="layout"/><file name="restart" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\restart.xml" qualifiers="" type="layout"/><file name="settings" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\settings.xml" qualifiers="" type="layout"/><file name="top" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout\top.xml" qualifiers="" type="layout"/><file name="bottom" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout-small\bottom.xml" qualifiers="small-v4" type="layout"/><file name="gameover" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout-small\gameover.xml" qualifiers="small-v4" type="layout"/><file name="help" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout-small\help.xml" qualifiers="small-v4" type="layout"/><file name="leave" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout-small\leave.xml" qualifiers="small-v4" type="layout"/><file name="mainmenu" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout-small\mainmenu.xml" qualifiers="small-v4" type="layout"/><file name="restart" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout-small\restart.xml" qualifiers="small-v4" type="layout"/><file name="settings" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout-small\settings.xml" qualifiers="small-v4" type="layout"/><file name="top" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\layout-small\top.xml" qualifiers="small-v4" type="layout"/><file name="chime1" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\raw\chime1.mp3" qualifiers="" type="raw"/><file name="chime2" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\raw\chime2.mp3" qualifiers="" type="raw"/><file name="drop" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\raw\drop.mp3" qualifiers="" type="raw"/><file name="droppower" path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\raw\droppower.mp3" qualifiers="" type="raw"/><file path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\values\color.xml" qualifiers=""><color name="wood_light">#B68E53</color><color name="wood_medlight">#926B3D</color><color name="link">#0008ff</color><color name="wood_dark">#502D17</color><color name="wood_meddark">#6A4626</color></file><file path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\values\strings.xml" qualifiers=""><string name="msg_p1win">Игрок 1 выиграл !</string><string name="msg_turn">Ход игрока</string><string name="msg_diff">Уровень сложности</string><string name="msg_youwin">Молодцы, вы выиграли !</string><string name="msg_players">Кол-во игроков</string><string name="sureleave">Вы уверены, что хотите выйти из игры?</string><string name="msg_p2win">Игрок 2 выиграл !</string><string name="surerestart">Вы уверены, что хотите перезапустить игру?</string><string name="msg_draw">Ой-ой,  ничья!</string><string name="msg_sound">Настройки</string><string name="all_help">Игра для двоих, в которой игроки сначала выбирают цвет фишек, а затем ходят по очереди, роняя фишки в ячейки вертикальной доски.
+        \n\nЦель игры — расположить раньше противника подряд по горизонтали, вертикали или диагонали четыре фишки своего цвета.
+    \n\nEmail:\ pringls2012@gmail.com
+    
+    </string><string name="msg_help">Помощь</string><string name="app_name">Четыре в ряд</string><string name="msg_youlose">К сожалению, вы проиграли !</string></file><file path="C:\Users\Boris\Desktop\4inarows\app\src\main\res\values\styles.xml" qualifiers=""><style name="MyButtonSmall">
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">#ffffff</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:layout_margin">2dp</item>
+	    <item name="android:textSize">12dp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">2</item>
+	    <item name="android:padding">2dp</item>
+	</style><style name="MyRadio" parent="@android:style/Widget.CompoundButton.RadioButton">
+  	 	<item name="android:button">@drawable/radio</item>
+  	 	<item name="android:paddingLeft">60dp</item>
+  	 	<item name="android:paddingBottom">12dp</item>
+  	 	<item name="android:paddingTop">12dp</item>
+	</style><style name="MyButton">
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">#ffffff</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:layout_margin">2dp</item>
+	    <item name="android:textSize">20dp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">2</item>
+	</style><style name="LabelTextSmall" parent="@android:style/TextAppearance.Medium">
+         <item name="android:textColor">#FFF</item>
+         <item name="android:textSize">10sp</item>
+
+    </style><style name="MyDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:background">#034F70</item>
+         <item name="android:layout_width">wrap_content</item>
+         <item name="android:layout_height">wrap_content</item>
+         <item name="android:padding">4dp</item>
+         <item name="android:windowNoTitle">true</item>
+    </style><style name="NormalText" parent="@android:style/TextAppearance.Medium">
+         <item name="android:textColor">#FFF</item>
+         <item name="android:textSize">18sp</item>
+
+    </style><style name="LabelText" parent="@android:style/TextAppearance.Medium">
+         <item name="android:textColor">#FFF</item>
+         <item name="android:textSize">22sp</item>
+
+    </style><style name="MyButtonVSmall">
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">#ffffff</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:layout_margin">1dp</item>
+	    <item name="android:textSize">10dp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">2</item>
+	    <item name="android:padding">1dp</item>
+	</style><style name="MyButtonMed">
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">#ffffff</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:layout_margin">2dp</item>
+	    <item name="android:textSize">15dp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">2</item>
+	    <item name="android:padding">3dp</item>
+	</style><style name="LabelTextMed" parent="@android:style/TextAppearance.Medium">
+         <item name="android:textColor">#FFF</item>
+         <item name="android:textSize">14sp</item>
+
+    </style><style name="NormalTextSmall" parent="@android:style/TextAppearance.Medium">
+         <item name="android:textColor">#FFF</item>
+         <item name="android:textSize">11sp</item>
+
+    </style><style name="MyRadioSmall" parent="@android:style/Widget.CompoundButton.RadioButton">
+  	 	<item name="android:button">@drawable/radio</item>
+  	 	<item name="android:paddingLeft">26dp</item>
+  	 	<item name="android:paddingBottom">1dp</item>
+  	 	<item name="android:paddingTop">1dp</item>
+  	 	<item name="android:textSize">10dp</item>
+	</style></file></source><source path="C:\Users\Boris\Desktop\4inarows\app\build\generated\res\rs\debug"/><source path="C:\Users\Boris\Desktop\4inarows\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\Boris\Desktop\4inarows\app\src\debug\res"/></dataSet><mergedItems/></merger>

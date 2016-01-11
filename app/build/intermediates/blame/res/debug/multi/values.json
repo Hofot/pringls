@@ -1,0 +1,622 @@
+[
+    {
+        "outputFile": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 224,
+                        "endColumn": 35,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 43,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 94,
+                        "endColumn": 40,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 44,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 46,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 180,
+                        "endColumn": 43,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 47,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 135,
+                        "endColumn": 44,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endLine": 11,
+                    "endColumn": 13,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endLine": 19,
+                        "endColumn": 13,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 49,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 54,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 54,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 51,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 51,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endColumn": 43,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 43,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 55,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 55,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 55,
+                    "endOffset": 928
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 55,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 933,
+                    "endColumn": 54,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 54,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 47,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 47,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 47,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 47,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 67,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 67,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 61,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 61,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endColumn": 75,
+                    "endOffset": 1285
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 75,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1290,
+                    "endColumn": 82,
+                    "endOffset": 1368
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 82,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1373,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2962,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 3150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1755
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 5,
+                        "startOffset": 3166,
+                        "endLine": 84,
+                        "endColumn": 12,
+                        "endOffset": 3357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1760,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 5,
+                        "startOffset": 3373,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 3566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endLine": 52,
+                    "endColumn": 9,
+                    "endOffset": 2543
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endLine": 15,
+                        "endColumn": 9,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2548,
+                    "endLine": 66,
+                    "endColumn": 9,
+                    "endOffset": 3182
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 650,
+                        "endLine": 30,
+                        "endColumn": 9,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3187,
+                    "endLine": 80,
+                    "endColumn": 9,
+                    "endOffset": 3823
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1290,
+                        "endLine": 46,
+                        "endColumn": 9,
+                        "endOffset": 1926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3828,
+                    "endLine": 94,
+                    "endColumn": 9,
+                    "endOffset": 4465
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1931,
+                        "endLine": 60,
+                        "endColumn": 9,
+                        "endOffset": 2568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4470,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 4830
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2587,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 2947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4835,
+                    "endLine": 107,
+                    "endColumn": 9,
+                    "endOffset": 5132
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 3994,
+                        "endLine": 113,
+                        "endColumn": 9,
+                        "endOffset": 4291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5137,
+                    "endLine": 114,
+                    "endColumn": 9,
+                    "endOffset": 5484
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 6,
+                        "startOffset": 4303,
+                        "endLine": 121,
+                        "endColumn": 9,
+                        "endOffset": 4650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5489,
+                    "endLine": 119,
+                    "endColumn": 12,
+                    "endOffset": 5677
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3581,
+                        "endLine": 98,
+                        "endColumn": 12,
+                        "endOffset": 3770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5682,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 5875
+                },
+                "from": {
+                    "file": "C:\\Users\\Boris\\Desktop\\4inarows\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 3785,
+                        "endLine": 105,
+                        "endColumn": 12,
+                        "endOffset": 3979
+                    }
+                }
+            }
+        ]
+    }
+]
